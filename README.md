@@ -1,2 +1,3 @@
 # Trading_platform
-coming this march
+coming this april with full-stack development in react and mongoDB 
+
